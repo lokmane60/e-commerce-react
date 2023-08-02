@@ -1,0 +1,39 @@
+export const Data =[
+    {
+        id:1,
+        n_Achater:45,
+        month:'March',
+        money:876
+    },
+    {
+        id:2,
+        n_Achater:67,
+        month:'February',
+        money:1456
+    },
+    {
+        id:3,
+        n_Achater:38,
+        month:'January',
+        money:760
+    },
+    {
+        id:4,
+        n_Achater:75,
+        month:'December',
+        money:1589
+    },
+    {
+        id:5,
+        n_Achater:57,
+        month:'November',
+        money:985
+    },
+    {
+        id:6,
+        n_Achater:49,
+        month:'October',
+        money:913
+    },
+
+]

@@ -1,0 +1,25 @@
+.headerr{
+    height: 100px;
+    background-color: rgb(214, 214, 214);
+}
+.mynav{
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.linkCart img{
+    width: 30px;
+}
+.linkCart {
+    text-decoration: none;
+    color: #144c43;
+    
+}
+.linkCart span{
+    margin-top: -10px;
+    position:absolute;
+    font-weight: 900;
+    color: red;
+
+}

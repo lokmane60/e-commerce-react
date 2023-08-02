@@ -1,0 +1,34 @@
+
+.card img{
+    height: 100px;
+}
+@media only screen and (max-width: 800px){
+    .listProduct{
+        width: 200px;
+        
+    }
+}
+@media only screen and (max-width: 600px){
+    .listProduct{
+        width: 150px;
+    }
+}
+@media only screen and (min-width: 800px){
+    .listProduct{
+        width: 260px;
+        
+    }
+}
+.cardtitle{
+    font-size: 13px;
+    
+
+}
+body{
+    background-color: #f8f9fa;
+    color:  #144c19;
+    overflow: scroll;
+}
+.mylink{
+    text-decoration: none;
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.post{
+    
+    width: 260px;
+    padding: 20px;
+}
+.post img{
+    
+    width: 100%;
+}
+.auther{
+    color: rgba(0, 0, 0, 0.658);
+
+}
+h3{
+    font-size: 17px;
+}
+
+.contain{
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
